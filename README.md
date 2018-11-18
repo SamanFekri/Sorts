@@ -1,2 +1,2 @@
 # Sorts
-Diffrent kind of sorts in diffrent languages.
+Different kind of sorts in different languages.
